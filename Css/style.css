@@ -70,7 +70,8 @@ main, footer{
     /* background-color: #222628; */
 }
 .container2 div{
-    flex-grow: 2;
+    flex-grow: 1;
+    flex-shrink: ;
           
 }
 
