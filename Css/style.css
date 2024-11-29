@@ -40,7 +40,8 @@ main, footer{
 .block1, .block2, .block3{
     height: 50px;
     width: 200px;
-    margin: 20px;;
+    margin: 20px;
+    
 }
 .block4{
     width: 60%;
@@ -67,13 +68,22 @@ main, footer{
 }
 .container2{
     
+    
+    
     /* background-color: #222628; */
 }
 .container2 div{
-    flex-grow: 1;
-    flex-shrink: ;
-          
+    
+    
+    
+    
+        
 }
+
+   
+
+
+
 
     
 
