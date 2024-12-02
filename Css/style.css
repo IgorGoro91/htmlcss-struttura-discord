@@ -66,17 +66,20 @@ main, footer{
     
 
 }
-.container2{
-    
-    
-    
-    /* background-color: #222628; */
-}
+/* informazioni secondarie */ 
+
 .container2 div{
+flex-basis: calc(100% / 5); 
     
     
+    background-color: #222628;
+}
+.container2 div:first-child{
+    flex-basis: 25%; 
     
-    
+ 
+   
+   
         
 }
 
